@@ -1,6 +1,5 @@
 # NetAdmin project
-###### group project made as prerequisite for the Computer Engineering degree
-
+### A Collaborative Group Project made as Prerequisite for the Network Administration Subject 
 ## Security Policy and Active Directory Planning (What I'm assigned to)
 - Deployed Virtual Machine(VirtualBox) to administer Active Directory using Windows Server 2008
 - Created some organizational units and assigned their respective security and group policy objects
