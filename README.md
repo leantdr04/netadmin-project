@@ -10,3 +10,6 @@ Sample company domain and created Organizational Units
 
 Sample company network topology
 ![alt text](https://github.com/leantdr04/netadmin-project/blob/main/company%20network%20topology.jpg?raw=true)
+
+Company IP VLSM Subnetting
+![alt text](https://github.com/leantdr04/netadmin-project/blob/main/Company%20Subnet%20Table.png?raw=true)
